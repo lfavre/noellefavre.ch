@@ -1,12 +1,13 @@
 ---
-title: "Un accord durable et satisfaisant pour chacun"
-date: 2017-09-10T21:05:02+02:00
+title: Parlons en confiance
+date: 2017-09-10T21:05:02.000+02:00
 featured_image: "/images/banner.jpg"
 type: page
+weight: "100"
 menu:
-  "main":
-    name: "Médiation"
-weight: 100
+  main:
+    name: Médiation
+    weight: 100
 
 ---
 La médiation, proposée par [Noëlle Favre](/noellefavre), Médiatrice diplômée de l’Institut Universitaire Kurt Bösch, s’adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, de voisinage, de relations de travail, d'associations à but non lucratif...
