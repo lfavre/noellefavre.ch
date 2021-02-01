@@ -25,7 +25,8 @@ Lors de ces rencontres, le médiateur est le garant du processus et des règles 
 Tout ce qui se dit en entretien, ainsi que tout document s’y rapportant, reste strictement confidentiel.
 
 ### Tarifs
-150.-/h pour les individuels<br/>
-220.-/h pour les entreprises
 
-<a href="./contact" class="f4 link dim ph4 shadow-3 pv2 dib white bg-blue br3">Entrer dans une démarche de médiation</a>
+150\.-/h pour les individuels<br/>
+220\.-/h pour les entreprises
+
+<a href="./contact" class="f4 link dim ph4 shadow-3 pv2 dib white bg-blue br3">Entrez dans une démarche de médiation</a>
